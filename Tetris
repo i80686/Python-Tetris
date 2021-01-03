@@ -1,4 +1,4 @@
-#Python数据结构实战练习——俄罗期方块
+#Python数据结构实战练习——俄罗斯方块
 import os
 import time
 import msvcrt
